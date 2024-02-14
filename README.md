@@ -18,7 +18,7 @@ This repository contains a Flask-based REST API for managing movie information.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Esquire31/Flask-Rest
+git clone https://github.com/Esquire31/Flask-Rest.git
 ```
 2. Create a virtual environment:
 ```bash
